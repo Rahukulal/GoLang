@@ -1,0 +1,4 @@
+{
+	"sqlDump":"/Sql",
+	"mongoDump":"/Mongo"
+}
